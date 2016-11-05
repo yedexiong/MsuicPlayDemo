@@ -1,0 +1,57 @@
+[{
+    "id": 0,
+    "name": "Adagio sostenuto",
+    "artist": "Ludwig van Beethoven",
+    "cover": "http:\/\/download.lingyongqian.cn\/music\/ViolinConcertoOp61InDMajorII.jpg",
+    "duration": "07:05",
+    "url": "http:\/\/download.lingyongqian.cn\/music\/AdagioSostenuto.mp3"
+}, {
+    "id": 1,
+    "name": "For Elise",
+    "artist": "Ludwig van Beethoven",
+    "cover": "http:\/\/download.lingyongqian.cn\/music\/ForElise.jpg",
+    "duration": "02:57",
+    "url": "http:\/\/download.lingyongqian.cn\/music\/ForElise.mp3"
+}, {
+    "id": 2,
+    "name": "Minuet in G",
+    "artist": "Ludwig van Beethoven",
+    "cover": "http:\/\/download.lingyongqian.cn\/music\/MinuetInG.jpg",
+    "duration": "02:55",
+    "url": "http:\/\/download.lingyongqian.cn\/music\/MinuetInG.mp3"
+}, {
+    "id": 3,
+    "name": "Moonlight Sonata",
+    "artist": "Ludwig van Beethoven",
+    "cover": "http:\/\/download.lingyongqian.cn\/music\/MoonlightSonata.jpg",
+    "duration": "03:32",
+    "url": "http:\/\/download.lingyongqian.cn\/music\/MoonlightSonata.mp3"
+}, {
+    "id": 4,
+    "name": "Rondo.Allegro",
+    "artist": "Ludwig van Beethoven",
+    "cover": "http:\/\/download.lingyongqian.cn\/music\/RondoAllegro.jpg",
+    "duration": "04:47",
+    "url": "http:\/\/download.lingyongqian.cn\/music\/RondoAllegro.mp3"
+}, {
+    "id": 5,
+    "name": "Violin Concerto op 61 in D major I",
+    "artist": "Ludwig van Beethoven",
+    "cover": "http:\/\/download.lingyongqian.cn\/music\/ViolinConcertoOp61InDMajorI.jpg",
+    "duration": "24:29",
+    "url": "http:\/\/download.lingyongqian.cn\/music\/ViolinConcertoOp61InDMajorI.mp3"
+}, {
+    "id": 6,
+    "name": "Violin Concerto op 61 in D major II",
+    "artist": "Ludwig van Beethoven",
+    "cover": "http:\/\/download.lingyongqian.cn\/music\/ViolinConcertoOp61InDMajorII.jpg",
+    "duration": "24:29",
+    "url": "http:\/\/download.lingyongqian.cn\/music\/ViolinConcertoOp61InDMajorII.mp3"
+}, {
+    "id": 7,
+    "name": "Violin Concerto op 61 in D major III",
+    "artist": "Ludwig van Beethoven",
+    "cover": "http:\/\/download.lingyongqian.cn\/music\/ViolinConcertoOp61InDMajorIII.jpg",
+    "duration": "24:29",
+    "url": "http:\/\/download.lingyongqian.cn\/music\/ViolinConcertoOp61InDMajorIII.mp3"
+}]
